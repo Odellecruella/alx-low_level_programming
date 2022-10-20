@@ -1,4 +1,4 @@
-#include 'main.h"
+#include "main.h"
 
 /**
 * _isalpha - check the code for ALX School students.
@@ -19,5 +19,5 @@ int _isalpha(int c)
 	{
 		return (1);
 	}
-	return(0)
+	return(0);
 }
